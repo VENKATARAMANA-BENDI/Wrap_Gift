@@ -8,7 +8,7 @@
 
 ### 🚀 Project Overview
 
-Cloak Gift enables users to **encrypt and decrypt messages** through a visually engaging interface. Messages are encoded using multiple encryption techniques and then embedded inside images for extra privacy.
+Wrap Gift enables users to **encrypt and decrypt messages** through a visually engaging interface. Messages are encoded using multiple encryption techniques and then embedded inside images for extra privacy.
 
 The result — a digital “gift box” that only the intended recipient can open.
 
@@ -54,8 +54,8 @@ The result — a digital “gift box” that only the intended recipient can ope
 ---
 
 ### ⚙️ Setup Instructions
-git clone https://github.com/BVPKARTHIKEYA/cloak-gift.git
-cd cloak-gift
+git clone (https://github.com/VENKATARAMANA-BENDI/Wrap_Gift)
+cd Wrap-gift
 start index.html
 
 Alternatively, open the [Live Demo](https://cloak-gifts.netlify.app/) directly in your browser.
