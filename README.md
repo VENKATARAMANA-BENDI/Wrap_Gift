@@ -1,6 +1,6 @@
-# 🎁 Cloak Gift
+# 🎁 Wrap Gift
 
-**Cloak Gift** is an interactive and secure **steganography web application** that allows users to hide and reveal secret messages using a **“gift box”** metaphor. The app makes encryption feel like **wrapping a gift** and decryption like **unwrapping it**, blending fun interaction with strong cryptographic protection.
+**Wrap Gift** is an interactive and secure **steganography web application** that allows users to hide and reveal secret messages using a **“gift box”** metaphor. The app makes encryption feel like **wrapping a gift** and decryption like **unwrapping it**, blending fun interaction with strong cryptographic protection.
 
 🌐 **Live Demo:** [https://cloak-gifts.netlify.app/](https://cloak-gifts.netlify.app/)
 
