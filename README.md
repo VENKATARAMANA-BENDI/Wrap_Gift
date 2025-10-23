@@ -72,7 +72,7 @@ Alternatively, open the [Live Demo](https://cloak-gifts.netlify.app/) directly i
 
 ### 👨‍💻 Author
 
-Made with ❤️ by **Karthikeya Boddeda** ⚡  
+Made with ❤️ by **Venkata Ramana Bendi** ⚡  
 If you like this project, consider starring ⭐ the repository!
 
 Clone this repository and open the project locally:
